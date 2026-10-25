@@ -40,7 +40,7 @@ through setup again. To update a clock that's already set up and keep its settin
 With [PlatformIO](https://platformio.org/):
 
 ```bash
-git clone https://github.com/F0tia/ham-clock-cyd
+git clone https://github.com/KI6UIT/ham-clock-cyd
 cd ham-clock-cyd
 pio run -t upload
 ```

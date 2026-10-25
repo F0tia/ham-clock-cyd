@@ -12,4 +12,4 @@
 #define SOLAR_RETRY_MS   (2UL * 60 * 1000)
 
 #define SETUP_AP_NAME    "HamClock-Setup"
-#define USER_AGENT       "HamClockCYD/1.0 (+https://github.com/F0tia/ham-clock-cyd)"
+#define USER_AGENT       "HamClockCYD/1.0 (+https://github.com/KI6UIT/ham-clock-cyd)"
